@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BrowserNavigation {
 	/* Variable Declaration */
-	private static String DriverPath = "D:\\Softwares\\Selenium\\BrowserDrivers\\chromedriver.exe";
+	private static String DriverPath = "D:\\BrowserDrivers\\chromedriver.exe";
 	private static String Url;
 	private static WebDriver driver = null;
 	
